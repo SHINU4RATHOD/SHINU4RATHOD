@@ -1,10 +1,9 @@
-<div align="center">
-
 ### 😎 Hey! Nice to see you.
+<div align="center">
 
 # I'm Shinu Rathod 😊
 
-**I'm a Data Science Enthusiast | AI Explorer | YouTuber @shinurathod300**
+I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 
 </div>
 
