@@ -12,7 +12,7 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 - Natural Language Processing (NLP)
 - MLOps
 - Time Series Forecasting
-- Data Visualization
+- Data Visualization(PowerBI)
 
 ---
 
@@ -42,6 +42,7 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shinu-rathod-608871216)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ShinuRathod)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/shinnurathod)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@shinurathod300)
 
 ---
 
@@ -50,8 +51,3 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHINU4RATHOD&layout=compact&theme=radical)
 
 ---
-
-### ☕ Support
-If you enjoyed my work, you can support me by buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/yourprofile)
