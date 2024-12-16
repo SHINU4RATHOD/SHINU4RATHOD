@@ -46,7 +46,7 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shinu-rathod-608871216)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ShinuRathod)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/shinnurathod)
-[![YouTube]([https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@shinurathod300](https://www.youtube.com/watch?v=bngfi7Qy-Rs&list=PLPILFCzuvU7fMzEzxZ4PxeFw1kSQ2bBFr&index=2&ab_channel=SHINURATHOD))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@shinurathod300)
 
 ---
 
