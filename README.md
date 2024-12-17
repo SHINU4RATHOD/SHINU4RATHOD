@@ -1,11 +1,11 @@
 ### 😎 Hey! Nice to see you.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHINU4RATHOD&label=Profile%20views&color=0e75b6&style=flat" alt="SHINU4RATHOD" /> </p>
+
 <div align="center">
 
 # I'm Shinu Rathod 😊
 
 I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHINU4RATHOD&label=Profile%20views&color=0e75b6&style=flat" alt="SHINU4RATHOD" /> </p>
 
 </div>
 
