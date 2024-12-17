@@ -53,11 +53,10 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 ---
 
 ### 📈 GitHub Stats
-![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINU4RATHOD&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHINU4RATHOD&layout=compact&theme=radical)
+![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINU4RATHOD&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHINU4RATHOD&layout=compact&theme=radical)
 
 ---
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak8260" alt="deepak8260" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHINU4RATHOD" alt="SHINU4RATHOD" /></a> </p>
 ---
