@@ -49,6 +49,8 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ShinuRathod)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://kaggle.com/shinnurathod)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@shinurathod300/playlists)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/profile/shinukrathod0143)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/u/shinukrathod0143/)
 
 ---
 
