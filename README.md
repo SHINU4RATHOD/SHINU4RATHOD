@@ -32,6 +32,10 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
     <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat" alt="Keras" />
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch" />
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask" />
+    <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat" alt="Heroku" />
 </div>
 
 ---
