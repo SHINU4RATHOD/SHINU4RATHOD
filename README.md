@@ -14,6 +14,7 @@ I'm a **Data Scientist** | **Machine Learning Enthusiast** | **AI Explorer**
 ### I have technical experience and interests in:
 - Machine Learning
 - Deep Learning
+- Computer Vision
 - Natural Language Processing (NLP)
 - GEN AI LLMs
 - MLOps(Learning..)
