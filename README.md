@@ -278,23 +278,40 @@ Currently shipping **PhishGuard** -- a transformer-based phishing URL detection 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHINU4RATHOD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINU4RATHOD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+<!-- Stats & Top Languages (side by side) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SHINU4RATHOD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHINU4RATHOD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINU4RATHOD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINU4RATHOD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SHINU4RATHOD&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="Streak Stats"/>
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SHINU4RATHOD&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=SHINU4RATHOD&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHINU4RATHOD&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<!-- Trophies -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SHINU4RATHOD&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SHINU4RATHOD&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</picture>
 
-</div>
+<br/><br/>
 
-<!-- =============================== ACTIVITY GRAPH =============================== -->
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SHINU4RATHOD&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHINU4RATHOD&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Activity Graph" />
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHINU4RATHOD&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
